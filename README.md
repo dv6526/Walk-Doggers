@@ -1,4 +1,5 @@
 # Lastni projekt pri predmetu TPO
+Lastni projekt pri predmetu **Tehnologija programske opreme** v študijskem letu **2020/2021**.
 
 ## Status delovnih tokov
 
